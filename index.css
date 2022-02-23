@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(107, 188, 241);
+}
+h1{
+    text-align: center;
+    color: rgb(55, 71, 214);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 60px;
+}
+h2{
+    text-align: center;
+    color: rgb(55, 71, 214);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;  
+    font-size: 40px;
+}
+h4{
+    text-align: center;
+    color: rgb(55, 71, 214);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 20px;
+}
+h5{
+    text-align: left;
+    color: rgb(8, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-weight: normal; 
+    font-size: 20px;
+}
+h6{
+    text-align: left;
+    color: rgb(8, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-weight: normal; 
+    font-size: 20px;
+    
+}
+p{
+    
+    text-align: center;
+    color: rgb(55, 71, 214);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-size: 20px;
+}
+table{
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+th{
+    width: 33.33%; 
+    vertical-align: top;
+}
+.p-Aboutme{
+    color: rgb(8, 0, 0);
+    text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
+    font-weight: normal; 
+    font-size: 20px;
+    text-align: justify;
+}
+#th-Details{
+    text-align: left;
+}
+.top-container{
+    background-color: rgb(206, 161, 243);
+}
+.p-Footer{
+    text-align: center;
+}
+
+

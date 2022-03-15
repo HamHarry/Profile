@@ -1,30 +1,36 @@
-body{
-    background-color: rgb(107, 188, 241);
+/* กำหนดสีของ background */
+body{ 
+    background-color: rgb(107, 188, 241); 
 }
+/* กำหนดสีของสีและขนาดข้อความของ h1 */ 
 h1{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 60px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h2 */
 h2{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;  
     font-size: 40px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h4 */
 h4{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 20px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h3 */
 h3{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 40px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h5 */
 h5{
     text-align: left;
     color: rgb(8, 0, 0);
@@ -32,14 +38,15 @@ h5{
     font-weight: normal; 
     font-size: 20px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h6 */
 h6{
     text-align: left;
     color: rgb(8, 0, 0);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-weight: normal; 
-    font-size: 20px;
-    
+    font-size: 20px; 
 }
+/* กำหนดสีของสีและขนาดข้อความของ p */
 p{
     
     text-align: center;
@@ -47,15 +54,18 @@ p{
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 20px;
 }
+/* กำหนดให้ข้อความของในก้อนของ table อยู่ตรงกลางและปรับขนาด */
 table{
     width: 100%;
     text-align: center;
     font-size: 40px;
 }
+/* กำหนดขนาดและหัวข้อให้อยู่ด้านบน */
 th{
     width: 33.33%; 
     vertical-align: top;
 }
+/* กำหนดสีของสีและขนาดข้อความของก้อน p-Aboutme */
 .p-Aboutme{
     color: rgb(8, 0, 0);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
@@ -63,12 +73,11 @@ th{
     font-size: 20px;
     text-align: justify;
 }
-#th-Details{
-    text-align: left;
-}
+/* กำหนดสีของ background ของ top-container */
 .top-container{
     background-color: rgb(206, 161, 243);
 }
+/* กำหนดสีของ background ของ table-menu td:hover */
 .table-menu td:hover{
     background-color: rgb(206, 161, 243);
 }

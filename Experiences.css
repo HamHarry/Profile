@@ -1,59 +1,71 @@
+/* กำหนดสีของ background */
 body{
     background-color: rgb(107, 188, 241);
 }
+/* กำหนดสีของ background ของ top-container */
 .top-container{
     background-color: rgb(206, 161, 243);
 }
+/* กำหนดสีของ background และตำแหน่งของ table-menu */
 .table-menu{
     width:100%; 
     text-align: center;
     background-color: rgb(107, 188, 241);
 }
+/* กำหนดสีของสีและขนาดข้อความของ h1 */
 h1{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 60px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h2 */
 h2{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;  
     font-size: 30px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h3 */
 h3{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 40px;
-} 
+}
+/* กำหนดสีของสีและขนาดข้อความของ h4 */
 h4{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 20px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ h5 */
 h5{ 
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 20px;
 }
+/* กำหนดสีของสีและขนาดข้อความของ p */
 p{
     text-align: center;
     color: rgb(55, 71, 214);
     text-shadow: 0em 0em 0.5em #ffffff,0em 0em 0.5em #ffffff,0em 0em 0.5em #fdfdfd;
     font-size: 20px;
 }
+/* กำหนดช่องของ table-content */
 .table-content{
     margin-left: auto; 
     margin-right: auto;
 }
+/* กำหนดสี background,style,ขนาด font  */
 .ul-disc{
     list-style-type:disc;
     font-size: 20px;
     background-color: rgb(206, 161, 243);
 }
+/* กำหนดสี background ของ table-menu td:hover */
 .table-menu td:hover{
     background-color: rgb(206, 161, 243);
 }
